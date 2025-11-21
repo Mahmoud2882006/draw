@@ -1,9 +1,10 @@
 # first
-cd position_of_file                        ===> like /c/foder/new_folder
-git add position_of_file                   ===> or for  stand use * rather than position_of_file
+cd position_of_file                        ===> like /c/foder/new_folder  to choose a folder
+git add position_of_file                   ===> or for  stand use * rather than position_of_file git to prepare te file
 git commit -m "file_name.extention"        ===> the file you want to push
 git push origin main                       ===> to push the file to GitHup
 
 
 git ls                                     ===> to show alll files into the folder
 git status                                 ===> to show status of the file 
+
